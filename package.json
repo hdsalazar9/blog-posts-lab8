@@ -1,0 +1,16 @@
+{
+  "name": "lab8",
+  "version": "1.0.0",
+  "description": "Modifications of lab7 to turn it in to a more modular api",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "hsalazar",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.4",
+    "uuid": "^3.3.2"
+  }
+}
